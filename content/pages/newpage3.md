@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Contatti
 subtitle: lorem-ipsum
 seo:
   title: ''
