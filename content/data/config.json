@@ -68,7 +68,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "https://it.linkedin.com/",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": false,
                 "no_follow": false,
