@@ -66,6 +66,17 @@
                 "url": "https://www.instagram.com/"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "has_subnav": false,
+                "subnav_links": [],
+                "type": "action_menu"
+            },
+            {
                 "url": "https://twitter.com/?lang=it",
                 "style": "icon",
                 "icon_class": "twitter",
