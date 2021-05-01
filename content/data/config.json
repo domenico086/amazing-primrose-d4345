@@ -49,7 +49,7 @@
             },
             {
                 "label": "Contatti",
-                "url": "/docs/newpage3",
+                "url": "ewpage3",
                 "style": "primary",
                 "icon_class": "dev",
                 "new_window": false,
