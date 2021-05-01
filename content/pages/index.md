@@ -9,7 +9,7 @@ sections:
       \-Psicologa-Psicoterapeuta-
     actions:
       - label: Chi Sono
-        url: /docs
+        url: /newpage2
         style: primary
   - section_id: features
     type: section_grid
