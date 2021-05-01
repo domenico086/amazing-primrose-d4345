@@ -172,7 +172,7 @@ La persona fisica, giuridica, la pubblica amministrazione e qualsiasi altro ente
 
 La persona fisica o giuridica, l’autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali e gli strumenti adottati, ivi comprese le misure di sicurezza relative al funzionamento ed alla fruizione di riccardo.im. Il Titolare del Trattamento, salvo quanto diversamente specificato, è il titolare di riccardo.im.
 
-**riccardo.im (o questa Applicazione)**
+**---------(o questa Applicazione)**
 
 Lo strumento hardware o software mediante il quale sono raccolti e trattati i Dati Personali degli Utenti.
 
