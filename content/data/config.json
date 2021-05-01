@@ -45,7 +45,7 @@
                     }
                 ],
                 "type": "action_menu",
-                "url": "/docs"
+                "url": "/style-guide"
             },
             {
                 "label": "Contatti",
