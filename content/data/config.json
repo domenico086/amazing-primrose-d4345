@@ -48,7 +48,8 @@
                 "label": "Style Guide",
                 "style": "link",
                 "has_subnav": false,
-                "icon_class": "instagram"
+                "icon_class": "instagram",
+                "url": "https://www.instagram.com/"
             },
             {
                 "label": "GitHub",
