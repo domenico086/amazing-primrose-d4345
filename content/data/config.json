@@ -46,7 +46,7 @@
             },
             {
                 "label": "Style Guide",
-                "style": "link",
+                "style": "icon",
                 "has_subnav": false,
                 "icon_class": "instagram",
                 "url": "https://www.instagram.com/"
