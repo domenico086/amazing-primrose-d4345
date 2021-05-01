@@ -126,11 +126,11 @@ I Dati Personali dell’Utente possono essere utilizzati da parte del Titolare i
 
 **Informative specifiche**
 
-Su richiesta dell’Utente, in aggiunta alle informazioni contenute in questa privacy policy, \__\__\_ potrebbe fornire all’Utente delle informative aggiuntive e contestuali riguardanti Servizi specifici, o la raccolta ed il trattamento di Dati Personali.
+Su richiesta dell’Utente, in aggiunta alle informazioni contenute in questa privacy policy, \_*\_*\_ potrebbe fornire all’Utente delle informative aggiuntive e contestuali riguardanti Servizi specifici, o la raccolta ed il trattamento di Dati Personali.
 
 **Log di sistema e manutenzione**
 
-Per necessità legate al funzionamento ed alla manutenzione, \__\__\__e gli eventuali servizi terzi da essa utilizzati potrebbero raccogliere log di sistema, ossia file che registrano le interazioni e che possono contenere anche Dati Personali, quali l’indirizzo IP Utente.
+Per necessità legate al funzionamento ed alla manutenzione, \_*\_*\__e gli eventuali servizi terzi da essa utilizzati potrebbero raccogliere log di sistema, ossia file che registrano le interazioni e che possono contenere anche Dati Personali, quali l’indirizzo IP Utente.
 
 **Informazioni non contenute in questa policy**
 
@@ -138,11 +138,11 @@ Ulteriori informazioni in relazione al trattamento dei Dati Personali potranno e
 
 **Risposta alle richieste “Do Not Track”**
 
-\__\__\__ non supporta le richieste “Do Not Track”. Per scoprire se gli eventuali servizi di terze parti utilizzati le supportino, l’Utente è invitato a consultare le rispettive privacy policy.
+\_*\_*\__ non supporta le richieste “Do Not Track”. Per scoprire se gli eventuali servizi di terze parti utilizzati le supportino, l’Utente è invitato a consultare le rispettive privacy policy.
 
 **Modifiche a questa privacy policy**
 
-Il Titolare del Trattamento si riserva il diritto di apportare modifiche alla presente privacy policy in qualunque momento dandone informazione agli Utenti su questa pagina e, se possibile, su \__\__\__ nonché, qualora tecnicamente e legalmente fattibile, inviando una notifica agli Utenti attraverso uno degli estremi di contatto di cui è in possesso il Titolare. Si prega dunque di consultare regolarmente questa pagina, facendo riferimento alla data di ultima modifica indicata in fondo.
+Il Titolare del Trattamento si riserva il diritto di apportare modifiche alla presente privacy policy in qualunque momento dandone informazione agli Utenti su questa pagina e, se possibile, su \_*\_*\__ nonché, qualora tecnicamente e legalmente fattibile, inviando una notifica agli Utenti attraverso uno degli estremi di contatto di cui è in possesso il Titolare. Si prega dunque di consultare regolarmente questa pagina, facendo riferimento alla data di ultima modifica indicata in fondo.
 
 Qualora le modifiche interessino trattamenti la cui base giuridica è il consenso, il Titolare provvederà a raccogliere nuovamente il consenso dell’Utente, se necessario.
 
@@ -154,11 +154,11 @@ Costituisce dato personale qualunque informazione che, direttamente o indirettam
 
 **Dati di Utilizzo**
 
-Sono le informazioni raccolte automaticamente attraverso \__\__\__\_ (anche da applicazioni di parti terze integrate in \__\__\_), tra cui: gli indirizzi IP o i nomi a dominio dei computer utilizzati dall’Utente che si connette con \__\__\_, gli indirizzi in notazione URI (Uniform Resource Identifier), l’orario della richiesta, il metodo utilizzato nell’inoltrare la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta dal server (buon fine, errore, ecc.) il paese di provenienza, le caratteristiche del browser e del sistema operativo utilizzati dal visitatore, le varie connotazioni temporali della visita (ad esempio il tempo di permanenza su ciascuna pagina) e i dettagli relativi all’itinerario seguito all’interno dell’Applicazione, con particolare riferimento alla sequenza delle pagine consultate, ai parametri relativi al sistema operativo e all’ambiente informatico dell’Utente.
+Sono le informazioni raccolte automaticamente attraverso \_*\_*\_*\_ (anche da applicazioni di parti terze integrate in \_*\_*\_), tra cui: gli indirizzi IP o i nomi a dominio dei computer utilizzati dall’Utente che si connette con \_*\__\_, gli indirizzi in notazione URI (Uniform Resource Identifier), l’orario della richiesta, il metodo utilizzato nell’inoltrare la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta dal server (buon fine, errore, ecc.) il paese di provenienza, le caratteristiche del browser e del sistema operativo utilizzati dal visitatore, le varie connotazioni temporali della visita (ad esempio il tempo di permanenza su ciascuna pagina) e i dettagli relativi all’itinerario seguito all’interno dell’Applicazione, con particolare riferimento alla sequenza delle pagine consultate, ai parametri relativi al sistema operativo e all’ambiente informatico dell’Utente.
 
 **Utente**
 
-L’individuo che utilizza \__\__\__\_ che, salvo ove diversamente specificato, coincide con l’Interessato.
+L’individuo che utilizza \_*\_*\__\_ che, salvo ove diversamente specificato, coincide con l’Interessato.
 
 **Interessato**
 
@@ -192,9 +192,8 @@ Piccola porzione di dati conservata all’interno del dispositivo dell’Utente.
 
 La presente informativa privacy è redatta sulla base di molteplici ordinamenti legislativi, inclusi gli artt. 13 e 14 del Regolamento (UE) 2016⁄679.
 
-Ove non diversamente specificato, questa informativa privacy riguarda esclusivamente \__\__\__\__
+Ove non diversamente specificato, questa informativa privacy riguarda esclusivamente \_*\_*\_*\_*
 
-Ultima modifica: 12 gennaio 2019
+Ultima modifica: -------
 
 #### Cookie Policy
-
