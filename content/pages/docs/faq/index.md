@@ -22,6 +22,7 @@ seo:
     - name: 'twitter:description'
       value: This is the faq page
 layout: docs
+title: 'Conflitti interpersonali in famiglia, nel lavoro, nelle amicizie'
 ---
 
 This is an example of the FAQ page.
