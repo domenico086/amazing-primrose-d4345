@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: chi sono
 subtitle: lorem-ipsum
 seo:
   title: ''
