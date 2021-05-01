@@ -1,6 +1,6 @@
 ---
 date: '2021-05-01'
-thumb_image: images/4.jpg
+thumb_image: images/goccia.jpeg
 image: images/goccia.jpeg
 seo:
   title: Introducing The Libris Theme
