@@ -44,7 +44,8 @@
                         "type": "action"
                     }
                 ],
-                "type": "action_menu"
+                "type": "action_menu",
+                "url": "/docs"
             },
             {
                 "label": "lorem-ipsum",
