@@ -22,6 +22,9 @@ seo:
     - name: 'twitter:description'
       value: This is the community page
 layout: docs
+title: >-
+  Difficoltà ad affrontare importanti cambiamenti della vita quotidiana (lavoro,
+  famiglia, casa, età)
 ---
 
 <div class="note">
