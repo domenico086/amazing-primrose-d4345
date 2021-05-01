@@ -22,6 +22,7 @@ seo:
     - name: 'twitter:description'
       value: This is the manage content page
 layout: docs
+title: 'Eventi specifici : lutto/trauma'
 ---
 
 <div class="note">
