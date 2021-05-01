@@ -1,6 +1,6 @@
 ---
 title: Formazione
-subtitle: lorem-ipsum
+subtitle: titolo
 seo:
   title: ''
   description: ''
