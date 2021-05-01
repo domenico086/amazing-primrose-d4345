@@ -38,25 +38,6 @@
                 "type": "action_menu"
             },
             {
-                "label": "Sample Pages",
-                "url": "#",
-                "style": "primary",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ],
-                "new_window": true
-            },
-            {
                 "label": "Style Guide",
                 "style": "icon",
                 "has_subnav": false,
