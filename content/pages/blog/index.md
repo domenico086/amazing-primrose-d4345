@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Contatti
 subtitle: This is an optional subtitle for the blog page
 image: images/goccia.jpeg
 has_more_link: true
