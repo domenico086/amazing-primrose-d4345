@@ -1,5 +1,5 @@
 ---
-title: Di cosa mi occ
+title: Di cosa mi occupo
 sections:
   - section_id: hero
     type: section_hero
