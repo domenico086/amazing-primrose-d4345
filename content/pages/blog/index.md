@@ -1,6 +1,6 @@
 ---
 title: Contatti
-subtitle: This is an optional subtitle for the blog page
+subtitle: descrizione
 image: images/goccia.jpeg
 has_more_link: true
 more_link_text: Read more
