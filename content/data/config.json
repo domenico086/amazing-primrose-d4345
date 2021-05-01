@@ -22,7 +22,7 @@
             },
             {
                 "label": "Di Cosa mi occupo",
-                "url": "/overvie",
+                "url": "/overview",
                 "style": "link",
                 "has_subnav": false
             },
