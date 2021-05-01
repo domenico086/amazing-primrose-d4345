@@ -40,7 +40,7 @@
             {
                 "label": "Sample Pages",
                 "url": "#",
-                "style": "link",
+                "style": "primary",
                 "has_subnav": true,
                 "subnav_links": [
                     {
