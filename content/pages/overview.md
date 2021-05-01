@@ -20,6 +20,11 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: primary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Overview
   description: This is the overview page
