@@ -1,6 +1,6 @@
 ---
 title: Formazione
-subtitle: The style guide provides you with a blueprint of default post and page styles.
+subtitle: Descrizione
 image: images/goccia.jpeg
 seo:
   title: Theme Style Guide
