@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Di cosa mi occupo
-    image: images/5.jpg
+    image: images/goccia.jpeg
     content: |+
       Ambiti di intervento:
 
