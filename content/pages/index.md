@@ -101,7 +101,7 @@ sections:
         url: /docs/getting-started/installation
         style: primary
 seo:
-  title: Dott.ssa Maria Vittoria zungri Pscologa-Psicoterapeuta
+  title: Dott.ssa Maria Vittoria Zungri Pscologa-Psicoterapeuta
   description: Dott.ssa Maria Vittoria zungri
   extra:
     - name: 'og:type'
