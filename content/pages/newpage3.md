@@ -1,6 +1,6 @@
 ---
 title: Contatti
-subtitle: lorem-ipsum
+subtitle: titolo
 seo:
   title: ''
   description: ''
