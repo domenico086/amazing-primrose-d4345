@@ -1,6 +1,6 @@
 ---
 title: chi sono
-subtitle: lorem-ipsum
+subtitle: titolo
 seo:
   title: ''
   description: ''
