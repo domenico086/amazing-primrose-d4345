@@ -9,9 +9,20 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+Dott.ssa Maria Vittoria Zungri
+
+Iscrizione Ordine Psicologi del Veneto N. 8802
+
+P. IVA 05007600280
+
+Telefono: **349 5823 347**
+
+Email: **mavi.zungri@gmail.com**
+
+Skype: **Maria Vittoria Zungri-Psy**
+
+##### Instagram*: **mariavittoriazungri_psy***
+
+Ricevo su appuntamento a Padova in Piazza Castello 16
