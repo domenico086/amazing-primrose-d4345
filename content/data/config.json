@@ -22,7 +22,7 @@
             },
             {
                 "label": "Di Cosa mi occupo",
-                "url": "/blog",
+                "url": "/",
                 "style": "link",
                 "has_subnav": false
             },
