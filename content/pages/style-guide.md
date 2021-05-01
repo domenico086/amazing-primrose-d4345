@@ -1,7 +1,7 @@
 ---
 title: Style Guide
 subtitle: The style guide provides you with a blueprint of default post and page styles.
-image: images/magenta-turmeric.jpeg
+image: images/goccia.jpeg
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
