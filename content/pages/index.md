@@ -8,7 +8,7 @@ sections:
     content: |
       \-Psicologa-Psicoterapeuta-
     actions:
-      - label: Get Started
+      - label: Chi Sono
         url: /docs
         style: primary
   - section_id: features
