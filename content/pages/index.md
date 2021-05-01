@@ -102,7 +102,7 @@ sections:
         style: primary
 seo:
   title: 'https://mariavittoriazungri.netlify.app/'
-  description: The preview of the Libris theme
+  description: Dott.ssa Maria Vittoria zungri
   extra:
     - name: 'og:type'
       value: website
