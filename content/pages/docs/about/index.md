@@ -22,6 +22,7 @@ layout: docs
 excerpt: >-
   Gestione dell’ansia, attacchi di panico e difficoltà nella regolazione delle
   emozioni (rabbia, paura, tristezza) o dello stress
+title: ANSIA
 ---
 
 Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
