@@ -49,7 +49,7 @@
             },
             {
                 "label": "Contatti",
-                "url": "/blog/libris",
+                "url": "/blog/libris-theme",
                 "style": "primary",
                 "icon_class": "dev",
                 "new_window": false,
