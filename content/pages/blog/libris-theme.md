@@ -53,6 +53,6 @@ Email: **mavi.zungri@gmail.com**
 
 Skype: **Maria Vittoria Zungri-Psy**
 
-##### Instagram*: **mariavittoriazungri_psy***
+##### Instagram\*: **mariavittoriazungri_psy**\*
 
-Ricevo su appuntamento a Padova in Piazza Castello 16
+Ricevo su appuntamento a Padova in Piazza Castello 16.    **    mappa**
