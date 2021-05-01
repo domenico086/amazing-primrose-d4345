@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Formazione
 subtitle: lorem-ipsum
 seo:
   title: ''
