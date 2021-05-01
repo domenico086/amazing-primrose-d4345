@@ -1,5 +1,4 @@
 ---
-title: Introducing The Libris Theme
 date: '2019-04-24'
 thumb_image: images/4.jpg
 image: images/3.jpg
